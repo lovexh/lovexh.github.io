@@ -112,6 +112,13 @@ video {
     text-decoration: none;
 }
 
+.typo1 {
+    font-family: AR DECODE 中等;
+    color: #f04124;
+    line-height: 1;
+    font-size: 130px;
+}
+
 article,
 aside,
 details,
@@ -347,7 +354,7 @@ p.heavy.normal {
 }
 
 h2.typo {
-    font-family: Ink Free 常规;
+    font-family: AR DECODE 中等;
     color: #ffffff;
     line-height: 1;
     font-size: 130px;
